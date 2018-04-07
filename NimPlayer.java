@@ -1,4 +1,3 @@
-//authorship statement: this file was writen by Hanqi Liu, Student ID: 966599,  on 12/03/2018.
 
 public class NimPlayer {
 	
