@@ -1,5 +1,3 @@
-//authorship statement: this file was writen by Hanqi Liu, Student ID: 866599,  on 12/03/2018.
-
 import java.util.ArrayList;
 import java.lang.Math;
 import java.util.Collections;
